@@ -1,4 +1,4 @@
-## GitHub Pages (Actions) deployment checklist
+# ChatGPT 사용자 가이드
 
 If `Deploy from a branch` works but selecting `GitHub Actions` appears to do nothing, check these in order:
 
